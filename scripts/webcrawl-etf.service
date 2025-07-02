@@ -1,0 +1,31 @@
+[Unit]
+Description=ETF Data Web Crawler Service
+Documentation=https://github.com/your-username/Data_WebcCrawl
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/path/to/Data_WebcCrawl
+ExecStart=/usr/bin/node app.js
+Restart=always
+RestartSec=10
+StandardOutput=append:/path/to/Data_WebcCrawl/logs/systemd.log
+StandardError=append:/path/to/Data_WebcCrawl/logs/systemd-error.log
+
+# 环境变量
+Environment=NODE_ENV=production
+Environment=PATH=/usr/bin:/usr/local/bin
+
+# 资源限制
+LimitNOFILE=65536
+MemoryMax=1G
+
+# 安全配置（可选）
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/path/to/Data_WebcCrawl
+
+[Install]
+WantedBy=multi-user.target 
