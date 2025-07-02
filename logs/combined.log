@@ -1,0 +1,313 @@
+{"level":"info","message":"模块测试 - 信息日志","service":"web-crawler","timestamp":"2025-07-02 15:01:16"}
+{"level":"warn","message":"模块测试 - 警告日志","service":"web-crawler","timestamp":"2025-07-02 15:01:16"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:01:17"}
+{"crawlerName":"test-module","dataType":"unit-test","fileName":"unit-test_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":2,"recordCount":2,"service":"web-crawler","timestamp":"2025-07-02 15:01:17"}
+{"cronExpression":"*/10 * * * * *","level":"info","message":"定时任务已添加","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:01:17"}
+{"level":"info","message":"模块测试 - 信息日志","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"warn","message":"模块测试 - 警告日志","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"crawlerName":"test-module","exists":true,"fileCount":2,"level":"info","message":"历史数据检查完成","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"crawlerName":"test-module","dataType":"unit-test","fileName":"unit-test_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":2,"recordCount":4,"service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"cronExpression":"*/10 * * * * *","level":"info","message":"定时任务已添加","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"手动执行定时任务","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"手动执行定时任务完成","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"error":"taskInfo.task.destroy is not a function","level":"error","message":"移除定时任务失败","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"crawler":"CrawlerManager","level":"info","message":"初始化爬虫管理器","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"crawler":"CrawlerManager","level":"info","message":"爬虫管理器初始化完成","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"crawler":"CrawlerManager","level":"info","message":"销毁爬虫管理器","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"crawler":"CrawlerManager","level":"info","message":"停止所有爬虫","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"crawler":"CrawlerManager","level":"info","message":"停止定时任务","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"停止所有定时任务","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"所有定时任务停止完成","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"销毁调度服务","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"停止所有定时任务","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"所有定时任务停止完成","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"调度服务已销毁","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"crawler":"CrawlerManager","level":"info","message":"爬虫管理器已销毁","service":"web-crawler","timestamp":"2025-07-02 15:04:09"}
+{"level":"info","message":"模块测试 - 信息日志","service":"web-crawler","timestamp":"2025-07-02 15:04:35"}
+{"level":"warn","message":"模块测试 - 警告日志","service":"web-crawler","timestamp":"2025-07-02 15:04:35"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawlerName":"test-module","exists":true,"fileCount":2,"level":"info","message":"历史数据检查完成","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawlerName":"test-module","dataType":"unit-test","fileName":"unit-test_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":2,"recordCount":6,"service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"cronExpression":"*/10 * * * * *","level":"info","message":"定时任务已添加","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"手动执行定时任务","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"手动执行定时任务完成","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"error":"taskInfo.task.destroy is not a function","level":"error","message":"移除定时任务失败","name":"test-task","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawler":"CrawlerManager","level":"info","message":"初始化爬虫管理器","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawler":"CrawlerManager","level":"info","message":"爬虫管理器初始化完成","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawler":"CrawlerManager","level":"info","message":"销毁爬虫管理器","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawler":"CrawlerManager","level":"info","message":"停止所有爬虫","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawler":"CrawlerManager","level":"info","message":"停止定时任务","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"停止所有定时任务","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"所有定时任务停止完成","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"销毁调度服务","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"停止所有定时任务","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"所有定时任务停止完成","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"level":"info","message":"调度服务已销毁","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawler":"CrawlerManager","level":"info","message":"爬虫管理器已销毁","service":"web-crawler","timestamp":"2025-07-02 15:04:36"}
+{"crawler":"SiteAnalyzer","level":"info","message":"开始分析网站: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:14:51"}
+{"crawler":"SiteAnalyzer","level":"info","message":"请求网站: https://farside.co.uk/bitcoin-etf-flow-all-data/","service":"web-crawler","timestamp":"2025-07-02 15:14:51"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:14:52","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 1/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:14:52","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:14:54","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 2/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:14:54","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:14:57","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 3/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:14:57","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"attempts":3,"error":"Request failed with status code 403","level":"error","message":"请求最终失败","service":"web-crawler","timestamp":"2025-07-02 15:14:57","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","level":"warn","message":"HTTP请求失败，尝试使用Puppeteer: Request failed with status code 403","service":"web-crawler","timestamp":"2025-07-02 15:14:57"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:14:57"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:15:04"}
+{"contentLength":438536,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 15:15:08","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","level":"info","message":"网站信息:","service":"web-crawler","timestamp":"2025-07-02 15:15:08","title":"Bitcoin ETF Flow – All Data (US$m) – Farside Investors","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","level":"info","message":"找到 4 个表格","service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"class":"thead","crawler":"SiteAnalyzer","headerCount":1,"headers":["Fund\nBTC ETFs\nETH ETFs\nStocks\nMiners\nBasis\nBooks\nAbout\nLogin"],"level":"info","message":"表格 1 信息:","rowCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"crawler":"SiteAnalyzer","data":["Fund\nBTC ETFs\nETH ETFs\nStocks\nMiners\nBasis\nBooks\nAbout\nLogin"],"level":"info","message":"样例数据:","service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"class":"etf","crawler":"SiteAnalyzer","headerCount":13,"headers":["Date","IBIT","FBTC","BITB","ARKB","BTCO","EZBC","BRRR","HODL","BTCW"],"level":"info","message":"表格 2 信息:","rowCount":390,"service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"crawler":"SiteAnalyzer","data":["11 Jan 2024","111.7","227.0","237.9","65.3","17.4","50.1","29.4","10.6","1.0"],"level":"info","message":"样例数据:","service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"class":"tfooter","crawler":"SiteAnalyzer","headerCount":1,"headers":["How can we assist you?\n\n\nTalk to us"],"level":"info","message":"表格 3 信息:","rowCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"crawler":"SiteAnalyzer","data":["How can we assist you?\n\n\nTalk to us"],"level":"info","message":"样例数据:","service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"class":"tfooter","crawler":"SiteAnalyzer","headerCount":1,"headers":[".grow img{\ntransition: 0.5s ease;\n}\n\n.grow img:hover{\n-webkit-transform: scale(1.3);\n-ms-transform: scale(1.3);\ntransform: scale(1.3);\ntransition: 0.5s ease;\n}\n\n\n\n\n\n\n\n\n\n\n\ninfo@farside.co.uk\n25 St James's Street, London, SW1A 1HA\n\n\n \n\n\n\nPrivacy Policy  Complaints\n© 2024 Farside Investors\n\n\n\nFS Investors Limited is an Appointed Representative of Brooklands Fund Management Limited which is authorised and regulated by the Financial Conduct Authority with the registered number 757575 and registered with the Securities and Exchange Commission with the registered number 286221. Today's date is 02 July 2025. Your IP: 172.71.81.59"],"level":"info","message":"表格 4 信息:","rowCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"crawler":"SiteAnalyzer","data":[".grow img{\ntransition: 0.5s ease;\n}\n\n.grow img:hover{\n-webkit-transform: scale(1.3);\n-ms-transform: scale(1.3);\ntransform: scale(1.3);\ntransition: 0.5s ease;\n}\n\n\n\n\n\n\n\n\n\n\n\ninfo@farside.co.uk\n25 St James's Street, London, SW1A 1HA\n\n\n \n\n\n\nPrivacy Policy  Complaints\n© 2024 Farside Investors\n\n\n\nFS Investors Limited is an Appointed Representative of Brooklands Fund Management Limited which is authorised and regulated by the Financial Conduct Authority with the registered number 757575 and registered with the Securities and Exchange Commission with the registered number 286221. Today's date is 02 July 2025. Your IP: 172.71.81.59"],"level":"info","message":"样例数据:","service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"crawler":"SiteAnalyzer","hasDataScript":true,"level":"info","message":"JavaScript动态内容检测:","scriptCount":46,"service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"crawler":"SiteAnalyzer","level":"info","message":"页面源码已保存: ./logs/analysis_bitcoin_1751440508381.html","service":"web-crawler","timestamp":"2025-07-02 15:15:08"}
+{"crawler":"SiteAnalyzer","level":"info","message":"开始分析网站: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:15:11"}
+{"crawler":"SiteAnalyzer","level":"info","message":"请求网站: https://farside.co.uk/ethereum-etf-flow-all-data/","service":"web-crawler","timestamp":"2025-07-02 15:15:11"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:15:12","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 1/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:15:12","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:15:15","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 2/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:15:15","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:15:18","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 3/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:15:18","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"attempts":3,"error":"Request failed with status code 403","level":"error","message":"请求最终失败","service":"web-crawler","timestamp":"2025-07-02 15:15:18","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","level":"warn","message":"HTTP请求失败，尝试使用Puppeteer: Request failed with status code 403","service":"web-crawler","timestamp":"2025-07-02 15:15:18"}
+{"error":"Waiting for selector `table, .table, [class*=\"table\"]` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Puppeteer请求失败","service":"web-crawler","timestamp":"2025-07-02 15:15:32","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","error":"Waiting for selector `table, .table, [class*=\"table\"]` failed: Waiting failed: 10000ms exceeded","level":"error","message":"无法访问网站: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:15:32"}
+{"crawler":"SiteAnalyzer","level":"info","message":"开始分析网站: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:17:09"}
+{"crawler":"SiteAnalyzer","level":"info","message":"请求网站: https://farside.co.uk/bitcoin-etf-flow-all-data/","service":"web-crawler","timestamp":"2025-07-02 15:17:09"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:10","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 1/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:10","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:16","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 2/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:16","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:19","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 3/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:19","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"attempts":3,"error":"Request failed with status code 403","level":"error","message":"请求最终失败","service":"web-crawler","timestamp":"2025-07-02 15:17:19","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","level":"warn","message":"HTTP请求失败，尝试使用Puppeteer: Request failed with status code 403","service":"web-crawler","timestamp":"2025-07-02 15:17:19"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:17:19"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:17:21"}
+{"error":"net::ERR_CONNECTION_RESET at https://farside.co.uk/bitcoin-etf-flow-all-data/","level":"error","message":"Puppeteer请求失败","service":"web-crawler","timestamp":"2025-07-02 15:17:31","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","error":"net::ERR_CONNECTION_RESET at https://farside.co.uk/bitcoin-etf-flow-all-data/","level":"error","message":"无法访问网站: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:17:31"}
+{"crawler":"SiteAnalyzer","level":"info","message":"开始分析网站: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:17:34"}
+{"crawler":"SiteAnalyzer","level":"info","message":"请求网站: https://farside.co.uk/ethereum-etf-flow-all-data/","service":"web-crawler","timestamp":"2025-07-02 15:17:34"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:36","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 1/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:36","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:39","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 2/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:39","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:45","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 3/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:17:45","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"attempts":3,"error":"Request failed with status code 403","level":"error","message":"请求最终失败","service":"web-crawler","timestamp":"2025-07-02 15:17:45","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","level":"warn","message":"HTTP请求失败，尝试使用Puppeteer: Request failed with status code 403","service":"web-crawler","timestamp":"2025-07-02 15:17:45"}
+{"contentLength":262210,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 15:17:50","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","level":"info","message":"网站信息:","service":"web-crawler","timestamp":"2025-07-02 15:17:50","title":"Ethereum ETF Flow – All Data (US$m) – Farside Investors","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawler":"SiteAnalyzer","level":"info","message":"找到 4 个表格","service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"class":"thead","crawler":"SiteAnalyzer","headerCount":1,"headers":["Fund\nBTC ETFs\nETH ETFs\nStocks\nMiners\nBasis\nBooks\nAbout\nLogin"],"level":"info","message":"表格 1 信息:","rowCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"crawler":"SiteAnalyzer","data":["Fund\nBTC ETFs\nETH ETFs\nStocks\nMiners\nBasis\nBooks\nAbout\nLogin"],"level":"info","message":"样例数据:","service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"class":"etf","crawler":"SiteAnalyzer","headerCount":44,"headers":["","Blackrock","Fidelity","Bitwise","21 Shares","VanEck","Invesco","Franklin","Grayscale","Grayscale"],"level":"info","message":"表格 2 信息:","rowCount":252,"service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"crawler":"SiteAnalyzer","data":["Seed","10.6","4.4","2.5","2.3","10.2","1.1","2.7","9,199.3*","1,022.5*"],"level":"info","message":"样例数据:","service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"class":"tfooter","crawler":"SiteAnalyzer","headerCount":1,"headers":["How can we assist you?\n\n\nTalk to us"],"level":"info","message":"表格 3 信息:","rowCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"crawler":"SiteAnalyzer","data":["How can we assist you?\n\n\nTalk to us"],"level":"info","message":"样例数据:","service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"class":"tfooter","crawler":"SiteAnalyzer","headerCount":1,"headers":[".grow img{\ntransition: 0.5s ease;\n}\n\n.grow img:hover{\n-webkit-transform: scale(1.3);\n-ms-transform: scale(1.3);\ntransform: scale(1.3);\ntransition: 0.5s ease;\n}\n\n\n\n\n\n\n\n\n\n\n\ninfo@farside.co.uk\n25 St James's Street, London, SW1A 1HA\n\n\n \n\n\n\nPrivacy Policy  Complaints\n© 2024 Farside Investors\n\n\n\nFS Investors Limited is an Appointed Representative of Brooklands Fund Management Limited which is authorised and regulated by the Financial Conduct Authority with the registered number 757575 and registered with the Securities and Exchange Commission with the registered number 286221. Today's date is 02 July 2025. Your IP: 162.158.107.54"],"level":"info","message":"表格 4 信息:","rowCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"crawler":"SiteAnalyzer","data":[".grow img{\ntransition: 0.5s ease;\n}\n\n.grow img:hover{\n-webkit-transform: scale(1.3);\n-ms-transform: scale(1.3);\ntransform: scale(1.3);\ntransition: 0.5s ease;\n}\n\n\n\n\n\n\n\n\n\n\n\ninfo@farside.co.uk\n25 St James's Street, London, SW1A 1HA\n\n\n \n\n\n\nPrivacy Policy  Complaints\n© 2024 Farside Investors\n\n\n\nFS Investors Limited is an Appointed Representative of Brooklands Fund Management Limited which is authorised and regulated by the Financial Conduct Authority with the registered number 757575 and registered with the Securities and Exchange Commission with the registered number 286221. Today's date is 02 July 2025. Your IP: 162.158.107.54"],"level":"info","message":"样例数据:","service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"crawler":"SiteAnalyzer","hasDataScript":true,"level":"info","message":"JavaScript动态内容检测:","scriptCount":46,"service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"crawler":"SiteAnalyzer","level":"info","message":"页面源码已保存: ./logs/analysis_ethereum_1751440670229.html","service":"web-crawler","timestamp":"2025-07-02 15:17:50"}
+{"level":"info","message":"Puppeteer浏览器已关闭","service":"web-crawler","timestamp":"2025-07-02 15:17:53"}
+{"level":"info","message":"Puppeteer浏览器已关闭","service":"web-crawler","timestamp":"2025-07-02 15:18:35"}
+{"level":"info","message":"开始测试Farside ETF爬虫","service":"web-crawler","timestamp":"2025-07-02 15:23:19"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:23:19"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取Farside ETF数据","service":"web-crawler","timestamp":"2025-07-02 15:23:19"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:23:19"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:23:19"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:23:20"}
+{"contentLength":438537,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 15:23:26","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawler":"FarsideCrawler","error":"this.storageService.save is not a function","level":"error","message":"爬取 Bitcoin ETF Flow 时发生异常","service":"web-crawler","timestamp":"2025-07-02 15:23:26"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:23:26"}
+{"error":"Waiting for selector `table.etf` failed: Waiting failed: 15000ms exceeded","level":"error","message":"Puppeteer请求失败","service":"web-crawler","timestamp":"2025-07-02 15:23:45","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:23:47","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 1/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:23:47","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:23:49","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 2/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:23:49","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:23:52","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 3/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:23:52","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"attempts":3,"error":"Request failed with status code 403","level":"error","message":"请求最终失败","service":"web-crawler","timestamp":"2025-07-02 15:23:52","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawler":"FarsideCrawler","error":"Request failed with status code 403","level":"error","message":"Ethereum ETF Flow 数据爬取失败","service":"web-crawler","timestamp":"2025-07-02 15:23:52"}
+{"level":"info","message":"Puppeteer浏览器已关闭","service":"web-crawler","timestamp":"2025-07-02 15:24:00"}
+{"level":"info","message":"开始测试Farside ETF爬虫","service":"web-crawler","timestamp":"2025-07-02 15:25:08"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:25:08"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取Farside ETF数据","service":"web-crawler","timestamp":"2025-07-02 15:25:08"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:25:08"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:25:08"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:25:09"}
+{"contentLength":438537,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 15:25:16","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawlerName":"bitcoin_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":1,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:25:16"}
+{"crawler":"FarsideCrawler","level":"info","message":"Bitcoin ETF Flow 数据爬取成功","recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:25:16"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:25:23"}
+{"contentLength":18036,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:25:27","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawlerName":"ethereum_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":0,"recordCount":0,"service":"web-crawler","timestamp":"2025-07-02 15:25:27"}
+{"crawler":"FarsideCrawler","level":"info","message":"Ethereum ETF Flow 数据爬取成功","recordCount":0,"service":"web-crawler","timestamp":"2025-07-02 15:25:27"}
+{"level":"info","message":"Puppeteer浏览器已关闭","service":"web-crawler","timestamp":"2025-07-02 15:25:33"}
+{"level":"info","message":"开始测试Farside ETF爬虫","service":"web-crawler","timestamp":"2025-07-02 15:26:24"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:26:24"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取Farside ETF数据","service":"web-crawler","timestamp":"2025-07-02 15:26:24"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:26:24"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:26:24"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:26:25"}
+{"contentLength":438538,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 15:26:30","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawlerName":"bitcoin_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":1,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:26:30"}
+{"crawler":"FarsideCrawler","level":"info","message":"Bitcoin ETF Flow 数据爬取成功","recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:26:30"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 15:26:34"}
+{"contentLength":18115,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:26:50","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawlerName":"ethereum_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":0,"recordCount":0,"service":"web-crawler","timestamp":"2025-07-02 15:26:50"}
+{"crawler":"FarsideCrawler","level":"info","message":"Ethereum ETF Flow 数据爬取成功","recordCount":0,"service":"web-crawler","timestamp":"2025-07-02 15:26:50"}
+{"level":"info","message":"Puppeteer浏览器已关闭","service":"web-crawler","timestamp":"2025-07-02 15:26:55"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"初始化Web Crawler应用程序","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"CrawlerManager","level":"info","message":"初始化爬虫管理器","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"CrawlerManager","level":"info","message":"爬虫管理器初始化完成","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"info","message":"爬虫注册成功","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"Web Crawler应用程序初始化完成","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"Web Crawler应用程序启动成功","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"开始检查历史数据并启动爬虫","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"未找到历史数据，开始全量爬取","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"info","message":"开始运行爬虫","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"FarsideCrawler","level":"info","message":"爬虫初始化中...","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"FarsideCrawler","level":"info","message":"爬虫初始化完成","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始运行爬虫","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取历史数据","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"FarsideCrawler","error":"crawlHistoricalData method must be implemented by subclass","level":"error","message":"历史数据爬取失败","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"FarsideCrawler","error":"crawlHistoricalData method must be implemented by subclass","level":"error","message":"爬虫运行失败","service":"web-crawler","stack":"Error: crawlHistoricalData method must be implemented by subclass\n    at FarsideCrawler.crawlHistoricalData (/Users/easonyang/Data_WebcCrawl/src/core/baseCrawler.js:34:11)\n    at FarsideCrawler.runHistoricalCrawl (/Users/easonyang/Data_WebcCrawl/src/core/baseCrawler.js:137:41)\n    at FarsideCrawler.run (/Users/easonyang/Data_WebcCrawl/src/core/baseCrawler.js:106:20)\n    at async CrawlerManager.runCrawler (/Users/easonyang/Data_WebcCrawl/src/core/crawlerManager.js:154:23)\n    at async WebCrawlerApp.startCrawling (/Users/easonyang/Data_WebcCrawl/app.js:97:9)\n    at async WebCrawlerApp.start (/Users/easonyang/Data_WebcCrawl/app.js:58:5)","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"error","message":"爬虫运行失败","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"cronExpression":"0 9 * * *","level":"info","message":"定时任务已添加","name":"daily_crawl_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"cronExpression":"0 3 * * 0","level":"info","message":"定时任务已添加","name":"cleanup_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"crawler":"CrawlerManager","level":"info","message":"启动定时任务","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"启动所有定时任务","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"定时任务已启动","name":"daily_crawl_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"定时任务已启动","name":"cleanup_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"所有定时任务启动完成","service":"web-crawler","taskCount":2,"timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"定时任务设置完成","schedule":"每日 09:00","service":"web-crawler","timestamp":"2025-07-02 15:31:03"}
+{"level":"info","message":"收到SIGINT信号，开始优雅关闭","service":"web-crawler","timestamp":"2025-07-02 15:33:11"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:40:59"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:45:08"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:45:12"}
+{"contentLength":450922,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 15:45:20","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"contentLength":18520,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:45:31","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"info","message":"Puppeteer浏览器已关闭","service":"web-crawler","timestamp":"2025-07-02 15:45:34"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:45:36"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:45:37"}
+{"error":"Protocol error (Runtime.callFunctionOn): Promise was collected","level":"error","message":"Puppeteer请求失败","service":"web-crawler","timestamp":"2025-07-02 15:46:08","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"contentLength":18520,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:46:18","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:46:21","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 1/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:46:21","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:46:23","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 2/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:46:23","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"error","message":"响应拦截器错误 Request failed with status code 403","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:46:26","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"error":"Request failed with status code 403","level":"warn","message":"请求失败 (尝试 3/3)","service":"web-crawler","status":403,"timestamp":"2025-07-02 15:46:26","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"attempts":3,"error":"Request failed with status code 403","level":"error","message":"请求最终失败","service":"web-crawler","timestamp":"2025-07-02 15:46:26","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"info","message":"Puppeteer浏览器已关闭","service":"web-crawler","timestamp":"2025-07-02 15:46:26"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:51:00"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:51:01"}
+{"contentLength":272003,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 15:51:09","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"level":"info","message":"Puppeteer浏览器已关闭","service":"web-crawler","timestamp":"2025-07-02 15:51:09"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 15:53:40"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 15:53:40"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 15:53:41"}
+{"contentLength":273063,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 15:53:48","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawlerName":"ethereum_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":1,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 15:53:48"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"level":"info","message":"初始化Web Crawler应用程序","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"CrawlerManager","level":"info","message":"初始化爬虫管理器","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"CrawlerManager","level":"info","message":"爬虫管理器初始化完成","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"info","message":"爬虫注册成功","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"level":"info","message":"Web Crawler应用程序初始化完成","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"level":"info","message":"Web Crawler应用程序启动成功","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"level":"info","message":"开始检查历史数据并启动爬虫","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"level":"info","message":"未找到历史数据，开始全量爬取","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"info","message":"开始运行爬虫","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"FarsideCrawler","level":"info","message":"爬虫初始化中...","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"FarsideCrawler","level":"info","message":"爬虫初始化完成","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始运行爬虫","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取历史数据","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取历史ETF数据","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取Farside ETF数据","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 17:18:36"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 17:18:41"}
+{"contentLength":448832,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 17:18:48","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawlerName":"bitcoin_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":1,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 17:18:48"}
+{"crawler":"FarsideCrawler","level":"info","message":"Bitcoin ETF Flow 数据爬取成功","recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 17:18:48"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 17:18:54"}
+{"contentLength":18349,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":403,"timestamp":"2025-07-02 17:20:59","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawlerName":"ethereum_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":0,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 17:20:59"}
+{"crawler":"FarsideCrawler","level":"info","message":"Ethereum ETF Flow 数据爬取成功","recordCount":0,"service":"web-crawler","timestamp":"2025-07-02 17:20:59"}
+{"crawler":"FarsideCrawler","level":"warn","message":"未获取到历史数据","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取每日数据","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"crawler":"FarsideCrawler","error":"crawlDailyData method must be implemented by subclass","level":"error","message":"每日数据爬取失败","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"crawler":"FarsideCrawler","error":"crawlDailyData method must be implemented by subclass","level":"error","message":"爬虫运行失败","service":"web-crawler","stack":"Error: crawlDailyData method must be implemented by subclass\n    at FarsideCrawler.crawlDailyData (/Users/easonyang/Data_WebCrawler/src/core/baseCrawler.js:43:11)\n    at FarsideCrawler.runDailyCrawl (/Users/easonyang/Data_WebCrawler/src/core/baseCrawler.js:168:36)\n    at FarsideCrawler.run (/Users/easonyang/Data_WebCrawler/src/core/baseCrawler.js:113:18)\n    at async CrawlerManager.runCrawler (/Users/easonyang/Data_WebCrawler/src/core/crawlerManager.js:154:23)\n    at async WebCrawlerApp.startCrawling (/Users/easonyang/Data_WebCrawler/app.js:98:9)\n    at async WebCrawlerApp.start (/Users/easonyang/Data_WebCrawler/app.js:59:5)","timestamp":"2025-07-02 17:21:03"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"error","message":"爬虫运行失败","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"cronExpression":"0 9 * * *","level":"info","message":"定时任务已添加","name":"daily_crawl_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"cronExpression":"0 3 * * 0","level":"info","message":"定时任务已添加","name":"cleanup_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"crawler":"CrawlerManager","level":"info","message":"启动定时任务","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"level":"info","message":"启动所有定时任务","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"level":"info","message":"定时任务已启动","name":"daily_crawl_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"level":"info","message":"定时任务已启动","name":"cleanup_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"level":"info","message":"所有定时任务启动完成","service":"web-crawler","taskCount":2,"timestamp":"2025-07-02 17:21:03"}
+{"level":"info","message":"定时任务设置完成","schedule":"每日 09:00","service":"web-crawler","timestamp":"2025-07-02 17:21:03"}
+{"level":"info","message":"数据目录已准备","path":"./data","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"level":"info","message":"初始化Web Crawler应用程序","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"CrawlerManager","level":"info","message":"初始化爬虫管理器","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"CrawlerManager","level":"info","message":"爬虫管理器初始化完成","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"info","message":"爬虫注册成功","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"level":"info","message":"Web Crawler应用程序初始化完成","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"level":"info","message":"Web Crawler应用程序启动成功","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"level":"info","message":"开始检查历史数据并启动爬虫","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"level":"info","message":"未找到历史数据，开始全量爬取","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"info","message":"开始运行爬虫","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"FarsideCrawler","level":"info","message":"爬虫初始化中...","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"FarsideCrawler","level":"info","message":"爬虫初始化完成","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始运行爬虫","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取历史数据","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取历史ETF数据","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取Farside ETF数据","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"level":"info","message":"使用系统Chrome浏览器","path":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome","service":"web-crawler","timestamp":"2025-07-02 17:29:29"}
+{"level":"info","message":"Puppeteer浏览器初始化成功","service":"web-crawler","timestamp":"2025-07-02 17:29:30"}
+{"contentLength":449377,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":200,"timestamp":"2025-07-02 17:29:45","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawlerName":"bitcoin_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":1,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 17:29:45"}
+{"crawler":"FarsideCrawler","level":"info","message":"Bitcoin ETF Flow 数据爬取成功","recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 17:29:45"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 17:29:48"}
+{"contentLength":18563,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":403,"timestamp":"2025-07-02 17:31:55","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawlerName":"ethereum_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":0,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 17:31:55"}
+{"crawler":"FarsideCrawler","level":"info","message":"Ethereum ETF Flow 数据爬取成功","recordCount":0,"service":"web-crawler","timestamp":"2025-07-02 17:31:55"}
+{"crawler":"FarsideCrawler","level":"warn","message":"未获取到历史数据","service":"web-crawler","timestamp":"2025-07-02 17:31:58"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取每日数据","service":"web-crawler","timestamp":"2025-07-02 17:31:58"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取每日ETF数据","service":"web-crawler","timestamp":"2025-07-02 17:31:58"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取Farside ETF数据","service":"web-crawler","timestamp":"2025-07-02 17:31:58"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Bitcoin ETF Flow","service":"web-crawler","timestamp":"2025-07-02 17:31:58"}
+{"contentLength":18538,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":403,"timestamp":"2025-07-02 17:32:20","url":"https://farside.co.uk/bitcoin-etf-flow-all-data/"}
+{"crawlerName":"bitcoin_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":0,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 17:32:20"}
+{"crawler":"FarsideCrawler","level":"info","message":"Bitcoin ETF Flow 数据爬取成功","recordCount":0,"service":"web-crawler","timestamp":"2025-07-02 17:32:20"}
+{"crawler":"FarsideCrawler","level":"info","message":"开始爬取: Ethereum ETF Flow","service":"web-crawler","timestamp":"2025-07-02 17:32:23"}
+{"contentLength":18441,"level":"info","message":"Puppeteer请求成功","service":"web-crawler","status":403,"timestamp":"2025-07-02 17:34:30","url":"https://farside.co.uk/ethereum-etf-flow-all-data/"}
+{"crawlerName":"ethereum_etf_data","dataType":"daily","fileName":"daily_2025-07-02.json","level":"info","message":"数据保存成功","newRecords":0,"recordCount":1,"service":"web-crawler","timestamp":"2025-07-02 17:34:30"}
+{"crawler":"FarsideCrawler","level":"info","message":"Ethereum ETF Flow 数据爬取成功","recordCount":0,"service":"web-crawler","timestamp":"2025-07-02 17:34:30"}
+{"crawler":"FarsideCrawler","level":"warn","message":"未获取到每日数据","service":"web-crawler","timestamp":"2025-07-02 17:34:35"}
+{"crawler":"FarsideCrawler","duration":306302,"level":"info","message":"爬虫运行完成","service":"web-crawler","stats":{"endTime":"2025-07-02T09:34:35.445Z","failedRequests":0,"isRunning":true,"lastRun":"2025-07-02T09:34:35.445Z","startTime":"2025-07-02T09:29:29.143Z","successRate":"0%","successfulRequests":0,"totalRecords":0,"totalRequests":0},"timestamp":"2025-07-02 17:34:35"}
+{"crawler":"CrawlerManager","crawlerName":"FarsideCrawler","level":"info","message":"爬虫运行完成","service":"web-crawler","stats":{"endTime":"2025-07-02T09:34:35.445Z","failedRequests":0,"isRunning":false,"lastRun":"2025-07-02T09:34:35.445Z","startTime":"2025-07-02T09:29:29.143Z","successRate":"0%","successfulRequests":0,"totalRecords":0,"totalRequests":0},"timestamp":"2025-07-02 17:34:35"}
+{"cronExpression":"0 9 * * *","level":"info","message":"定时任务已添加","name":"daily_crawl_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 17:34:35"}
+{"cronExpression":"0 3 * * 0","level":"info","message":"定时任务已添加","name":"cleanup_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 17:34:35"}
+{"crawler":"CrawlerManager","level":"info","message":"启动定时任务","service":"web-crawler","timestamp":"2025-07-02 17:34:35"}
+{"level":"info","message":"启动所有定时任务","service":"web-crawler","timestamp":"2025-07-02 17:34:35"}
+{"level":"info","message":"定时任务已启动","name":"daily_crawl_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 17:34:35"}
+{"level":"info","message":"定时任务已启动","name":"cleanup_FarsideCrawler","service":"web-crawler","timestamp":"2025-07-02 17:34:35"}
+{"level":"info","message":"所有定时任务启动完成","service":"web-crawler","taskCount":2,"timestamp":"2025-07-02 17:34:35"}
+{"level":"info","message":"定时任务设置完成","schedule":"每日 09:00","service":"web-crawler","timestamp":"2025-07-02 17:34:35"}
